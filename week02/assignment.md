@@ -61,7 +61,7 @@
 
 (출처 : 위키백과)
 
-![마스킹](https://helpx.adobe.com/content/dam/help/en/photoshop/using/saving-selections-alpha-channel-masks/_jcr_content/main-pars/image_0/se_13.png)
+![마스킹](https://helpx.adobe.com/content/dam/help/en/photoshop/using/saving-selections-alpha-channel-masks/_jcr_content/main-pars/image_0/se_13.png)알파채널을 이용한 마스크의 예
 
 A. 배경을 보호하면서 나비를 편집하는 데 사용한 불투명 마스크 
 
