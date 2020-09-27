@@ -119,3 +119,8 @@ Look-Up Table(LUT)는 색상, 채도, 명도를 수학적으로 정확하게 조
 
 https://tiberius-viris.artstation.com/blog/3ZBO/color-space-management-srgb-linear-and-log
 
+![참고](https://assets.rocketstock.com/uploads/2017/05/logvscorrected1.gif)
+
+Linear -> Log
+
+https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/
