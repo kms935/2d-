@@ -46,9 +46,6 @@ __질감 대비__ : 질감이 다른 두 피사체들로 인한 대비로 시선
 
 어메이징 스파이더맨2
 
-![어메](https://lh3.googleusercontent.com/proxy/IE7hx2ecQZ5tLxU39WWoUoOc4YE4_CpcgiYpFg0IEUSAPwUQeZ0mPrqwF7GBMhoquwmNUufeUmIJlCsxBcUmZArr0Aq-OGdw1N8YLk3v1MTARftN2f_0HJPRLKlo.)
-
-가운데 인물에 초점을 두어 뒤에 배경은 뿌옇게 보이고 명도,채도의 대비도 더해져있다. 그래서 가운데 인물이 더욱 돋보이게 된다.
 
 ![어메2](https://3.bp.blogspot.com/-cyDcfUrIX78/V6wF_J0YUCI/AAAAAAADxG8/tKUsJM2h5UcqNsUxjrsP_hls7ayB0slpwCLcB/s1600/3.gif)
 
