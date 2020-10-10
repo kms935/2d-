@@ -71,7 +71,9 @@
 
 ### Depth
 
-https://m.blog.naver.com/imurmvp/221097066013
+![focus](https://i.pinimg.com/originals/01/98/e1/0198e14af2ef815018a6ffb2a1779d37.jpg)
+
+거리감을 나타낼 수 있다. 원하는 피사체에 포커스를 맞추어 보여주고 나머지는 생략 시킬 수 있다.
 
 
 ### Color
