@@ -75,6 +75,10 @@
 
 거리감을 나타낼 수 있다. 원하는 피사체에 포커스를 맞추어 보여주고 나머지는 생략 시킬 수 있다.
 
+![딥포커스](https://mblogthumb-phinf.pstatic.net/MjAxNzA5MTRfNDEg/MDAxNTA1Mzc5Njc3Nzgz.WE1elFlK_e6sqCHFcw3HhVIPtSh3U8qazBvzHlZVl64g.x0pGI9smIHl-jeB0J8aWkuAlY-fWhXZdW5oQ0_kf4nQg.JPEG.imurmvp/%EC%8B%9C%EB%AF%BC%EC%BC%80%EC%9D%B8.jpg?type=w800)
+
+반면에, 딥포커스라는 기술로 모든 피사체에 포커스를 맞출 수 있다. 이 영화의 감독은 관객이 원하는 피사체를 고를 수 있게 했고, 시선을 강요할 수 없다고 했다.
+
 
 ### Color
 
