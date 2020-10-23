@@ -67,3 +67,19 @@ O'Brien은 이 스톱모션 효과로 1933년 King Kong(https://www.youtube.com/
 대표적으로 타이타닉,쥬라기공원, 터미네이터, 매트릭스, 그리고 토이스토리가 있다. 토이스토리는 픽사에서 제작한 최초의 3D 장편 애니메이션 영화로 당시에 엄청난 파장을 불러일으켰다.
 
 2000년대를 지나서 해리포터, 반지의 제왕, 아바타 등 더욱 더 발전된 VFX를 이용한 영화들이 제작되었다. 특히 __모션캡쳐__ 라는 기술이 개발되어 반지의 제왕, 아바타에서 적용이 되기도 했다.
+
+
+
+
+
+## 참고사이트
+
+1. https://www.thefocus.com/news/history-of-vfx-digital-age, Joe Beedle, Over 100years of VFX
+
+2. https://www.redsharknews.com/production/item/530-the-history-of-vfx-part-one-from-mary-queen-of-scots-to-citizen-kane, Andy Stout, THE HISTORY OF VFX - PART ONE: FROM MARY QUEEN OF SCOTS TO CITIZEN KANE
+
+3. http://www.spherevfx.com/the-history-of-computer-graphics-and-effects/, Matt Leonard
+
+4. http://media.cgland.com/news.html?part=&modes=view&page=435&no=6766&word=, 박준기, 역사와 이론, 기술과 제작 과정 총망라 VFX 기술의 어제와 오늘
+
+5. https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B0%81_%ED%9A%A8%EA%B3%BC
