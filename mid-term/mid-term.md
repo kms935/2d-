@@ -31,7 +31,7 @@ O'Brien은 이 스톱모션 효과로 1933년 King Kong(https://www.youtube.com/
 
 1926년 Lotte Reiniger는 애니메이션 장편 영화 <아흐메드 왕자의 모험,Die Abenteuer des Prinzen Achmed> (https://www.youtube.com/watch?v=G_9L7r8NIBc&feature=emb_title) 를 제작했다. 정교한 컷아웃 실루엣 조작을 통해 새로운 애니메이션 매체와 실루엣 공예를 융합했다.
 
-촬영을 편하게 만들어주고 원근감을 만들어주는 __매트페인팅__이란 기술도 개발이 됐다. Fritz Lang의 1927년작 Metropolis에서 매트페인팅 기술이 활용되었다.(https://www.youtube.com/watch?v=84BcdT8senc)
+촬영을 편하게 만들어주고 원근감을 만들어주는 __매트페인팅__ 이란 기술도 개발이 됐다. Fritz Lang의 1927년작 Metropolis에서 매트페인팅 기술이 활용되었다.(https://www.youtube.com/watch?v=84BcdT8senc)
 
 그리고 1937년 디즈니가 83분 분량의 '백설공주와 일곱난쟁이'를 제작 하면서 장편 애니메이션 영화의 새로운 시대를 열었다.
 
