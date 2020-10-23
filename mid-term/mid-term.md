@@ -72,6 +72,10 @@ O'Brien은 이 스톱모션 효과로 1933년 King Kong(https://www.youtube.com/
 
 
 
+
+
+
+---
 ## 참고사이트
 
 1. https://www.thefocus.com/news/history-of-vfx-digital-age, Joe Beedle, Over 100years of VFX
