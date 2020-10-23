@@ -20,5 +20,10 @@ VFX란 시각 효과 또는 비주얼 이펙트로 그림이나 영화의 프레
 
 단편 애니메이션은 각 프레임에 대한 배경 아트 워크를 포함하여 인상적인 10,000개의 그림으로 구성되었다. McCay는 또한 "실사" 를 포함하는 만화의 극장 개봉을 만들었다. McCay는 화면에서 Gertie에게 명령을 외쳤고 Gertie는 응답했다. McCay는 화면 뒤에서 사라지고 갑자기 Gertie의 뒷면에 만화 형태로 다시 나타나 일몰 속으로 뛰어들어 만화에 "자신을 삽입"했다.
 
+### 3. 1920년 이후
 
+Willis O'Brien은 공룡 모험 영화 The Lost World (1925)를 담당했다 . O'Brien은 미니어처 세트와 풍경에 프레임별로 촬영된 소규모 인형을 사용하여 영화에 스톱 모션 특수 효과를 도입했다.
+O'Brien은 이 스톱모션 효과로 1933년 King Kong(https://www.youtube.com/watch?v=MMNICLfHE3M) 을 제작한다.
+
+Lotte Reiniger
 
