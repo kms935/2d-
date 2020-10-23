@@ -29,7 +29,7 @@ VFX란 시각 효과 또는 비주얼 이펙트로 그림이나 영화의 프레
 Willis O'Brien은 공룡 모험 영화 The Lost World (1925)를 담당했다 . O'Brien은 미니어처 세트와 풍경에 프레임별로 촬영된 소규모 인형을 사용하여 영화에 __스톱 모션__ 특수 효과를 도입했다.
 O'Brien은 이 스톱모션 효과로 1933년 King Kong(https://www.youtube.com/watch?v=MMNICLfHE3M) 을 제작한다.
 
-1926년 Lotte Reiniger는 애니메이션 장편 영화 <아흐메드 왕자의 모험,Die Abenteuer des Prinzen Achmed> (https://www.youtube.com/watch?v=G_9L7r8NIBc&feature=emb_title) 를 제작했다. 정교한 컷아웃 실루엣 조작을 통해 새로운 애니메이션 매체와 실루엣 공예를 융합했다.
+1926년 Lotte Reiniger는 애니메이션 장편 영화 '아흐메드 왕자의 모험,Die Abenteuer des Prinzen Achmed' (https://www.youtube.com/watch?v=G_9L7r8NIBc&feature=emb_title) 를 제작했다. 정교한 컷아웃 실루엣 조작을 통해 새로운 애니메이션 매체와 실루엣 공예를 융합했다.
 
 촬영을 편하게 만들어주고 원근감을 만들어주는 __매트페인팅__ 이란 기술도 개발이 됐다. Fritz Lang의 1927년작 Metropolis에서 매트페인팅 기술이 활용되었다.(https://www.youtube.com/watch?v=84BcdT8senc)
 
