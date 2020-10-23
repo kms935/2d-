@@ -16,7 +16,7 @@ VFX란 시각 효과 또는 비주얼 이펙트로 그림이나 영화의 프레
 
 20세기로 넘어와서 1906년, 표준 영화 필름으로 제작된 최초의 애니메이션 영화가 제작되었다. J. Stuart Blackton이 만든 Humorous Phases of Funny Faces(https://www.youtube.com/watch?v=wGh6maN4l2I&feature=emb_title) 는 초당 20 프레임으로 투영되는 단일 프레임 방법을 사용하는 가장 오래된 애니메이션이다.
 
-그러나 첫 번째 성공적인 애니메이션 애니메이션으로 널리 알려진 것은 신문 만화가 Winsor McCay의 1914년 작품 Gertie the Dinosaur(https://www.youtube.com/watch?v=EOpTEgbnfZE&feature=emb_title) 이다.
+그러나 첫 번째 성공적인 애니메이션으로 널리 알려진 것은 신문 만화가 Winsor McCay의 1914년 작품 Gertie the Dinosaur(https://www.youtube.com/watch?v=EOpTEgbnfZE&feature=emb_title) 이다.
 
 단편 애니메이션은 각 프레임에 대한 배경 아트 워크를 포함하여 인상적인 10,000개의 그림으로 구성되었다. McCay는 또한 '실사'를 포함하는 만화의 극장 개봉을 만들었다. McCay는 화면에서 Gertie에게 명령을 외쳤고 Gertie는 응답했다. McCay는 화면 뒤에서 사라지고 갑자기 Gertie의 뒷면에 만화 형태로 다시 나타나 일몰 속으로 뛰어들어 만화에 '자신을 삽입'했다.
 
